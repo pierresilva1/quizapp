@@ -103,18 +103,18 @@ main{
     box-shadow: var(--shadow);
 }
 
-.botao_html{
+.botao_html div{
     background: var(--bg-html);
 }
 
-.botao_css{
+.botao_css div{
     background: var(--bg-css);
 }
 
-.botao_javascript{
+.botao_javascript div{
     background: var(--bg-javascript);
 }
 
-.botao_acessibilidade{
+.botao_acessibilidade div{
     background: var(--bg-acessibilidade);
 }
